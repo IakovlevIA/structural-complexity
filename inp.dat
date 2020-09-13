@@ -1,12 +1,12 @@
 1024
-5
+8
 1
 2
 151
 
 !n-linear lattice dimension from input file
-!comp_steps
-!comp_start
-!lambda0
+!number of calculated overlaps
+!step k at which we start to calculate complexity (less than the previous number)
+!lambda - linear dimension of the filter
 !number of configurations
 
