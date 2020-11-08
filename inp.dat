@@ -1,12 +1,13 @@
 1024
 8
-1
+0
 2
-151
+3
+1
 
-!n-linear lattice dimension from input file
+!n-linear lattice dimension from input file (n = 1024 for Ising and Heisenberg transitions, n = 2048 for green drop experiments, n = 128 for skyrmion dynamics, n = 4096 for images from figures 1 and 2)
 !number of overlaps to be calculated 
 !step k at which we start to calculate complexity (less than the previous number)
 !lambda - linear dimension of the filter
 !number of configurations
-
+!mode (0 - 2D Ising transition, 1 - 3D Ising transition, 2 - Heisenberg transition, 3 - Green drop and skyrmion dynamics, 4 - single RGB image or magnetic configuration)
